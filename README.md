@@ -1,2 +1,2 @@
 # SmallCasePractice
-一些小的容易混淆的java知识点练习
+java知识点练习
